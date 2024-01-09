@@ -1,0 +1,19 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ashrafulrcr43/webdevelpmentoffice.git
+git push -u origin main
+
+
+
+https://github.com/ashrafulrcr43/webdevelpmentoffice
+
+
+
+
+
+git config --global user.name Devashrafulislam
+git config --global user.email idb.ashraful@gmail.com
+git config --list
+
