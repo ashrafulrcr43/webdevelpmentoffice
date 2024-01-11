@@ -6,6 +6,8 @@ git remote add origin https://github.com/ashrafulrcr43/webdevelpmentoffice.git
 git push -u origin main
 
 
+git pull
+
 
 https://github.com/ashrafulrcr43/webdevelpmentoffice
 https://github.com/ashrafulrcr43/officeweb
