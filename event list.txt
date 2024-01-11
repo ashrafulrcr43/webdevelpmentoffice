@@ -1,0 +1,8 @@
+Common HTML Events
+=================
+onchange()
+onclick()
+onmouseover()
+onmouseout()
+onkeydown()
+onload()
